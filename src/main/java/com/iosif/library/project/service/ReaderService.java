@@ -1,6 +1,6 @@
 package com.iosif.library.project.service;
 
-import com.iosif.library.project.PersonDto.ReaderDto;
+import com.iosif.library.project.dto.ReaderDto;
 import com.iosif.library.project.exception.DataNotFoundException;
 import com.iosif.library.project.model.Reader;
 import com.iosif.library.project.repository.ReaderRepository;

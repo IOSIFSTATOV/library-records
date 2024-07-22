@@ -1,4 +1,4 @@
-package com.iosif.library.project.PersonDto;
+package com.iosif.library.project.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

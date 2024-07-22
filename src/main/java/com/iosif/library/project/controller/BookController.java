@@ -1,6 +1,6 @@
 package com.iosif.library.project.controller;
 
-import com.iosif.library.project.PersonDto.BookDto;
+import com.iosif.library.project.dto.BookDto;
 import com.iosif.library.project.service.BookService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

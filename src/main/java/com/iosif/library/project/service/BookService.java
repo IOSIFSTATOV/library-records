@@ -1,6 +1,6 @@
 package com.iosif.library.project.service;
 
-import com.iosif.library.project.PersonDto.BookDto;
+import com.iosif.library.project.dto.BookDto;
 import com.iosif.library.project.model.Book;
 import com.iosif.library.project.repository.BookRepository;
 import lombok.RequiredArgsConstructor;
